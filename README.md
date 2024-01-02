@@ -758,3 +758,4 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 1. **Cleanup AWS EC2 Instances:**
     - Terminate AWS EC2 instances that are no longer needed.
+configure iTerm2 - https://archive.eksworkshop.com/intermediate/290_argocd/configure/
